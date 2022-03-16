@@ -11,12 +11,10 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAE7C0wCsMk/y7UUl7ROJKDMXIJcZQJTsg/view?utm_content=DAE7C0wCsMk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE7C0wCsMk/y7UUl7ROJKDMXIJcZQJTsg/view?utm_content=DAE7C0wCsMk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- ⚡ Fun fact **I am optimistic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raghda-ru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghda-ru/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/raghdatarek8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raghdatarek8/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
