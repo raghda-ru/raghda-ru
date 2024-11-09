@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **raghda.tarek.hussein@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE7C0wCsMk/y7UUl7ROJKDMXIJcZQJTsg/view?utm_content=DAE7C0wCsMk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE7C0wCsMk/y7UUl7ROJKDMXIJcZQJTsg/view?utm_content=DAE7C0wCsMk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences https://www.canva.com/design/DAGV7g3S4mg/3f6Doe2E88uQezKlpJrzvQ/edit?utm_content=DAGV7g3S4mg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 <h3 align="left">Connect with me:</h3>
