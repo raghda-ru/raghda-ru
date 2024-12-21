@@ -8,7 +8,7 @@
 
 - 📄 You can find my CV [here](https://assets.super.so/14b4c099-ebf8-48b0-a428-a3de5aebe478/files/82797b2b-e374-49b8-8453-e034637dc086/Raghda_Mahmoud_CV-en.pdf).
 
-- 📑 My Portfoli https://raghdatarek.super.site/
+- 📑 My Portfolio https://raghdatarek.super.site/
 
 
 <h3 align="left">Connect with me:</h3>
